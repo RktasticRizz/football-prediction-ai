@@ -14,37 +14,45 @@ Coming Soon
 
 ### 🏠 Home Dashboard
 
-(Add Screenshot)
+<img width="1470" height="956" alt="Screenshot 2026-07-05 at 1 03 40 PM" src="https://github.com/user-attachments/assets/4fa622eb-90ef-4ab5-83b4-775e787531f2" />
 
 ---
 
 ### ⚽ Match Predictor
 
-(Add Screenshot)
+<img width="1470" height="956" alt="Screenshot 2026-07-05 at 1 04 35 PM" src="https://github.com/user-attachments/assets/dfae2d00-ef29-498a-9495-6172d9ce1839" />
+
 
 ---
 
 ### 📊 Team Analysis
 
-(Add Screenshot)
+<img width="1470" height="956" alt="Screenshot 2026-07-05 at 1 04 40 PM" src="https://github.com/user-attachments/assets/89ce3f92-5bf5-4386-b520-812710b3d6ea" />
+
+
 
 ---
 
 ### ⚔️ Head-to-Head
 
-(Add Screenshot)
+<img width="1470" height="956" alt="Screenshot 2026-07-05 at 1 04 50 PM" src="https://github.com/user-attachments/assets/ab3a3f57-a474-4ea1-a181-d7bd180f05a4" />
 
 ---
 
 ### 🏆 Elo Rankings
 
-(Add Screenshot)
+<img width="1470" height="956" alt="Screenshot 2026-07-05 at 1 05 03 PM" src="https://github.com/user-attachments/assets/b6c2fd80-2d3d-4d88-a62c-9e1cfd381a53" />
+
 
 ---
 
 ### 🌍 Tournament Simulator
 
-(Add Screenshot)
+<img width="1470" height="956" alt="Screenshot 2026-07-05 at 1 08 45 PM" src="https://github.com/user-attachments/assets/ac3d7369-c1b1-40b8-83c5-e8641c3a178a" />
+
+<img width="1470" height="956" alt="Screenshot 2026-07-05 at 1 09 11 PM" src="https://github.com/user-attachments/assets/26b6d934-5820-4cb3-a9c1-fefad5fdaee6" />
+
+
 
 ---
 
